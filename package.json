@@ -1,0 +1,29 @@
+{
+  "name": "web_lab-1",
+  "version": "1.0.0",
+  "description": "lab-1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegMar1/WEB_Lab-1.git"
+  },
+  "author": "OlehMykhasiv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlegMar1/WEB_Lab-1/issues"
+  },
+  "homepage": "https://github.com/OlegMar1/WEB_Lab-1#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1"
+  },
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
